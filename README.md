@@ -3,3 +3,4 @@ This game is a hangman remake. Throughout the game, you will be given a certain 
 
 #Creater
 Adele Hurley
+![Class Diagram]()
