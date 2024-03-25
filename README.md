@@ -7,3 +7,7 @@ Adele Hurley
 
 
 ![Class Diagram](images/mockup.png)
+
+![Mockup](images/mockup.png)
+
+![Start Screen](images/mockup.png)
