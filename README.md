@@ -8,6 +8,6 @@ Adele Hurley
 
 ![Class Diagram](images/mockup.png)
 
-![Mockup](images/mockup.png)
+![Mockup](images/gamegr.png)
 
 ![Start Screen](images/mockup.png)
