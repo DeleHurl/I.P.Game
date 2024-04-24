@@ -9,4 +9,4 @@ Adele Hurley
 
 ![Mockup](images/gamegr.png)
 
-![Mockup](images/start.png)
+![Start Screen](images/startscreen.png)
