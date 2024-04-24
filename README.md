@@ -5,9 +5,8 @@ This game is a hangman remake. Throughout the game, you will be given several le
 Adele Hurley
 
 
-
 ![Class Diagram](images/mockup.png)
 
 ![Mockup](images/gamegr.png)
 
-![Start Screen](images/start screen.png)
+![Mockup](images/start.png)
